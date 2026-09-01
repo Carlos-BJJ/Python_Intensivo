@@ -1,1 +1,0 @@
-#usando get( para acessar valores)
